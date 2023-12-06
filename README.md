@@ -24,8 +24,8 @@ python3 import_to_excel.py path/to/input_file.txt -c 6 -o Data_Date-Collected -f
 
 ## Requierd Modules
 
-pandas: Data manipulation library.
-openpyxl: Library for reading and writing Excel files.
+- pandas: Data manipulation library.
+- openpyxl: Library for reading and writing Excel files.
 
 ## Notes:
 
