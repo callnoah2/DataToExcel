@@ -8,6 +8,7 @@ This Python script allows users to import data from CSV or space-separated files
 
 ```bash
 python3 import_to_excel.py [OPTIONS] FILE
+```
 
 ## Options
 
@@ -17,7 +18,9 @@ python3 import_to_excel.py [OPTIONS] FILE
 
 ## Example Usage
 
+```bash
 python3 import_to_excel.py path/to/input_file.txt -c 6 -o Data_Date-Collected -f
+```
 
 ## Requierd Modules
 
