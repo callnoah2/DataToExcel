@@ -32,3 +32,7 @@ python3 import_to_excel.py path/to/input_file.txt -c 6 -o Data_Date-Collected -f
 The script reads both CSV and space-separated files.
 If the output file already exists, the script prompts the user for confirmation before overwriting (unless -f is used).
 If the number of columns is specified, it validates against the actual number of columns in the input file.
+
+## Problems:
+
+Numbers are imported as strings.
